@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1749147684 source:/home/athar/Desktop/c_practice/taash/main.cpp
+	<iostream>
+	<time.h>
+	<stdlib.h>
+	<iomanip>
+	<algorithm>
+	<vector>
+	<string>
+	"declarations.h"
+
+1749137754 /home/athar/Desktop/c_practice/taash/allcards.h
+	<iostream>
+
+1749137913 source:/home/athar/Desktop/c_practice/taash/check.cpp
+	<iostream>
+
+1749147708 /home/athar/Desktop/c_practice/taash/declarations.h
+	<iostream>
+
+1749143441 source:/home/athar/Desktop/c_practice/taash/pattern_check.cpp
+	<iostream>
+	<time.h>
+	<stdlib.h>
+	<iomanip>
+	<algorithm>
+	<vector>
+	<string>
+	"declarations.h"
+

@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1748852392 source:/home/athar/Desktop/c_practice/game/taash/main.cpp
+	<iostream>
+	<time.h>
+	<stdlib.h>
+	<iomanip>
+	<algorithm>
+	<vector>
+
