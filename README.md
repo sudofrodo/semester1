@@ -1,4 +1,4 @@
-This is what all I recieved and did in First Semester at COMSATS Lahore , Software Engineering Program.<br>
+This is what all I recieved and did in First Semester (Spring 2025) at COMSATS Lahore , Software Engineering Program.<br>
 Do not Copy Paste Assignments , They are there just to get an idea and some help.<br>
 Some large PDF's might not be displayed , download them.<br>
 If you have any problem with code , ask me on Sunday.<br>
