@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1749244839 source:/home/athar/Desktop/game/cardsroyale/main.cpp
+	<iostream>
+	<time.h>
+	<stdlib.h>
+	<iomanip>
+	<algorithm>
+	<vector>
+	<string>
+	<cstdlib>
+	<limits>
+	<sstream>
+	<map>
+

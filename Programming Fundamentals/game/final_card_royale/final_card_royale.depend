@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1750686773 source:/home/athar/Desktop/game/final_card_royale/main.cpp
+	<iostream>
+	<time.h>
+	<stdlib.h>
+	<iomanip>
+	<algorithm>
+	<vector>
+	<string>
+	<cstdlib>
+	<limits>
+	<sstream>
+	<map>
+
+1749582146 /home/athar/Desktop/game/final_card_royale/declarations.h
+	<iostream>
+	<time.h>
+	<stdlib.h>
+	<iomanip>
+	<algorithm>
+	<vector>
+	<string>
+	<cstdlib>
+	<limits>
+	<sstream>
+	<map>
+
