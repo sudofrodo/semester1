@@ -1,0 +1,23 @@
+body{
+	background-color: #f0f8ff;
+}
+h1,h2,h3 {
+	text-align: center;
+}
+p {
+	margin-left: 25px;
+}
+img{
+	width: 150px;
+	border-radius: 50%;
+	margin: 0 600px;
+}
+ul{
+	padding: 10px;
+	margin: 25px;
+}
+footer{
+background-color: blue;
+color: white;
+text-align: center;
+}
